@@ -1,0 +1,3 @@
+Criar uma página com um DIV simples (500x500) comum h2 dentro dela.
+Ela deve trocar de cor (regras no CSS usando media queries) de acordo com os tamanhosdos dispositivos, e ao mesmo tempo alterar o texto do h2mostrando o nome da cor.
+Ex.: cinza se for até 420px, laranja se for maior que 420px até 768px e assim pordiante. Maior que 1920px use verde.
